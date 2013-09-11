@@ -1,10 +1,7 @@
-<html>
-	<head>
-	</head>
-		body {
-			background: #0000ff;
-			font-size: 100px;
-			font-family: Helvetica, Arial, Verdana;
+body {
+	 background: #0000ff;
+	 font-size: 100px;
+	 font-family: Helvetica, Arial, Verdana;
 }
 
 h1 {
@@ -27,5 +24,3 @@ h4 {
 	width: 40px;
 	height: 90px; 
 }
-</body>
-</html>
