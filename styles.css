@@ -1,26 +1,19 @@
+header { 
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
 body {
-	 background: #d2ecf0;
-	 font-size: 100px;
-	 font-family: Helvetica, Arial, Verdana;
+	background: white;
+	font-size: 16px;
+	font-family: helvetica;
 }
 
 h1 {
-
+	font-size: 20px;
+	color: black;
 }
 
-h4 {
-	color: purple;
-}
-.shape{
-	background: #00ffff
-	height: 500px;
-	width: 200px;
-	padding-left: 10px;
-	padding-top: 10px;
-	margin-left: 70px;
-	border-left: 1px solid #000000; 
-}
-.selfie {
-	width: 40px;
-	height: 90px; 
+h2 {
+	
 }
