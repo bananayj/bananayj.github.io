@@ -1,12 +1,12 @@
 header { 
 	font-size: 20px;
-	font-family: Helvetica;
+	font-family: Helvetica, Verdana;
 }
 
 body {
 	background: white;
 	font-size: 16px;
-	font-family: helvetica;
+	font-family: helvetica, verdana;
 }
 
 h1 {
@@ -15,5 +15,13 @@ h1 {
 }
 
 h2 {
-	
+	font-size: 20px;
+	color: black;
 }
+
+h3 {
+	font-size: 20px;
+	color: black;
+}
+
+
