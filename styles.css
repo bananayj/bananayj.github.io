@@ -2,7 +2,12 @@ head {
 	font-size: 20px;
 	font-family: ".example2", verdana;
 }
-
+title {
+	font-size: 20px;
+	font-family: ".example2", verdana
+	color: black;
+	margin: 10px
+}
 body {
 	background: #FFFFFF;
 	font-size: 16px;
@@ -15,6 +20,9 @@ h1 {
 	color: black;
 	margin: 10px;
 }
+	p {
+		margin: 10px
+	}
 
 h2 {
 	font-size: 20px;
