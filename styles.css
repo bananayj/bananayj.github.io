@@ -1,37 +1,12 @@
-head { 
-	font-size: 20px;
-	font-family: ".example2", gill sans; verdana;
-}
-title {
-	font-size: 20px;
-	font-family: ".example2", verdana
-	color: black;
-	margin: 10px
-}
 body {
-	background: #FFFFFF;
-	font-size: 16px;
-	font-family: ".example2", verdana;
-	margin: 10px
-}
 
-h1 {
-	font-size: 20px;
-	color: black;
-	margin: 10px;
-}
-	p {
-		margin: 10px
+	margin:auto
+	padding: 60px;
+	background-color: #FFFAFA;
+	font-family: 'Muli', sans-serif;
+	line-height:  1.8em;
+	color: #f08080;
+
 	}
 
-h2 {
-	font-size: 20px;
-	color: black;
-	margin: 10px;
-}
-
-h3 {
-	font-size: 20px;
-	color: black;
-	margin: 10px;
-}
+	
